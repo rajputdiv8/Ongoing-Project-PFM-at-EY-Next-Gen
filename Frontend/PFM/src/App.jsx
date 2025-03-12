@@ -117,7 +117,7 @@ const App = () => {
       </ul>
 
       <footer className="footer">
-        © 2025 Personal Finance Manager | Developed by Divyanshu Raj
+        © 2025 Personal Finance Manager | Developed by Anand Kumar
       </footer>
     </div>
   );
